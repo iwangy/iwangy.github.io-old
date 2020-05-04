@@ -1,2 +1,2 @@
 # iwangy.github.io
- Personal Website
+ Personal Website | iwangy.github.io
