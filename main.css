@@ -1,0 +1,21 @@
+body{
+    text-align:justify;
+    background-color:#1D2125;
+    font-family: 'Bitter', serif;
+}
+.intro{
+    margin-top:5%;
+    margin-left:5%;
+    padding-bottom:20px;
+    font-size:20px;
+    color:#FFF;
+
+}
+.intro-name{
+    font-size: 50px;
+    padding-bottom:30px;
+}
+
+.intro-desc{
+    font-size:0.75em;
+}
