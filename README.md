@@ -1,2 +1,2 @@
 # iwangy.github.io
- Personal Website | [yiyangwang.me](yiyangwang.me)
+ Personal Website | [iwangy.github.io](https://iwangy.github.io)
