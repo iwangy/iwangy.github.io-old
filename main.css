@@ -1,4 +1,5 @@
 body{
+    overflow: auto;
     text-align:justify;
     background-color:#1D2125;
     font-family: 'Bitter', sans-serif;
@@ -7,6 +8,7 @@ body{
         -ms-animation: fadein 2s; /* Internet Explorer */
          -o-animation: fadein 2s; /* Opera < 12.1 */
             animation: fadein 2s;
+
 }
 @keyframes fadein {
     from { opacity: 0; }
@@ -61,18 +63,20 @@ i{
 }
 
 .intro{
+    width:500px;
     margin-top:5%;
     margin-left:5%;
     color:#FFF;
 }
 
 .intro-greeting{
+    width:200px;
     font-size: 20px;
     padding-bottom:2%;
 }
 
 .intro-name{
-    width:500px;
+    width:450px;
     font-size:50px;
     font-weight:300;  
     padding-bottom:2%;  
