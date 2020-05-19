@@ -1,6 +1,6 @@
 body{
     margin:0px;
-    overflow: hidden;
+    overflow: auto;
     text-align:justify;
     background-color:#1D2125;
     font-family: 'Bitter', sans-serif;
@@ -163,6 +163,16 @@ a.projects{
 }
 
 .blog-content{
+    width:650px;
     margin-top:6%;
     color:#a9a9a9;
+}
+
+.blog-content p{
+    overflow:auto;
+    font-size:13px;
+}
+
+.blog-content h1{
+    color:rgb(61, 89, 121);
 }
