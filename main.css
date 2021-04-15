@@ -176,3 +176,7 @@ a.projects{
 .blog-content h1{
     color:rgb(61, 89, 121);
 }
+
+.content-projects {
+    display: none;
+}
